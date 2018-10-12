@@ -17,15 +17,16 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 17.10.| Basic Operators             |                     |
 | 17.10.| Strings and Characters      |                     |
 | 19.10.| Collection Types            |                     |
-| 19.10.| Control Flow                |Lasch Tobias         |
-| 24.10.| Functions                   |                     |
-| 24.10.| Closures                    |                     |
-| 19.10.| Enumerations                |                     |
-| 07.11.| Structures and Classes      |                     |
-| 07.11.| Properties                  |                     |
-| 09.11.| Methods                     |                     |
-| 13.11.| Subscripts                  |                     |
-| 13.11.| Inheritance                 |                     |
+| 24.10.| Control Flow                |Lasch Tobias         |
+| 24.10.| Functions                   |  Bauer Philipp      |
+| 07.11.| Closures                    |                     |
+| 07.11.| Enumerations                |                     |
+| 09.11.| Structures and Classes      |                     |
+| 14.11.| Properties                  |   Pühringer         |
+| 14.11.| Methods                     |                     |
+| 16.11.| Subscripts                  |                     |
+| 21.11.| Inheritance                 |                     |
+
 
 
 ## Session 2
