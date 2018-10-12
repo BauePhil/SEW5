@@ -18,11 +18,11 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 17.10.| Strings and Characters      |                     |
 | 19.10.| Collection Types            |                     |
 | 19.10.| Control Flow                |                     |
-| 24.10.| Functions                   |                     |
+| 24.10.| Functions                   |  Bauer Philipp      |
 | 24.10.| Closures                    |                     |
 | 19.10.| Enumerations                |                     |
 | 07.11.| Structures and Classes      |                     |
-| 07.11.| Properties                  |                     |
+| 07.11.| Properties                  |   Pühringer         |
 | 09.11.| Methods                     | Maximilian Arthofer |
 | 13.11.| Subscripts                  |                     |
 | 13.11.| Inheritance                 |                     |
