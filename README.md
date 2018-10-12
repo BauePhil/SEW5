@@ -22,7 +22,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 24.10.| Closures                    |                     |
 | 19.10.| Enumerations                |                     |
 | 07.11.| Structures and Classes      |                     |
-| 07.11.| Properties                  |                     |
+| 07.11.| Properties                  |   Pühringer         |
 | 09.11.| Methods                     |                     |
 | 13.11.| Subscripts                  |                     |
 | 13.11.| Inheritance                 |                     |
