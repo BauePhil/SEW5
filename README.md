@@ -5,7 +5,7 @@ Jeder Schüler hat 2 Referate zu Swift zu halten, diese  werden in 2 Sessions ab
 
 Als Referenz ist das Buch [The Swift Programming Language](https://docs.swift.org/swift-book/) zu verwenden.
 
-Abgabe (Powerpoint oder KeyNote) per Pullrequest in dieses Repository, dient gleichzeitig als Lernunterlagen für die Mitschüler.
+Abgabe (Powerpoint oder KeyNote) per Pullrequest in dieses Repository, dient gleichzeitig als Lernunterlagen für die Mitschüler. Zusätzlich ist ein Übungsbeispiel für die Klasse vorzubereiten!
 
 Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullrequest zu erfolgen. Es gilt first come - first serve!
 
@@ -21,11 +21,11 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 24.10.| Functions                   | Bauer Philipp       |
 | 07.11.| Closures                    | Nedinic Nikola      |
 | 07.11.| Enumerations                | Altendorfer Jakob   |
-| 09.11.| Structures and Classes      |                     |
+| 09.11.| Structures and Classes      | Kempinger Stefan    |
 | 14.11.| Properties                  | Pühringer Lukas     |
 | 14.11.| Methods                     | Maximilian Arthofer |
 | 16.11.| Subscripts                  | Wollersberger Julian|
-| 21.11.| Inheritance                 |                     |
+| 21.11.| Inheritance                 | Ranzmair Manuel     |
 
 
 
