@@ -14,12 +14,10 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 
 | Datum | Thema                       | Name                |
 |-------|-----------------------------|---------------------|
-| 17.10.| Basic Operators             |                     |
-| 17.10.| Strings and Characters      | Sperl Markus        |
 | 17.10.| Basic Operators             | Florian Klammer     |
-| 17.10.| Strings and Characters      |                     |
+| 17.10.| Strings and Characters      | Sperl Markus        |
 | 19.10.| Collection Types            | Ebner               |
-| 24.10.| Control Flow                |                     |
+| 24.10.| Control Flow                | Lasch Tobias        |
 | 24.10.| Functions                   | Bauer Philipp       |
 | 07.11.| Closures                    |                     |
 | 07.11.| Enumerations                |                     |
@@ -28,6 +26,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 14.11.| Methods                     | Maximilian Arthofer |
 | 16.11.| Subscripts                  | Manuel Ranzmeir     |
 | 21.11.| Inheritance                 |                     |
+
 
 
 ## Session 2
