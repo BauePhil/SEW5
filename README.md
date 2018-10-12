@@ -15,7 +15,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | Datum | Thema                       | Name                |
 |-------|-----------------------------|---------------------|
 | 17.10.| Basic Operators             |                     |
-| 17.10.| Strings and Characters      |                     |
+| 17.10.| Strings and Characters      | Sperl Markus        |
 | 19.10.| Collection Types            |                     |
 | 19.10.| Control Flow                |                     |
 | 24.10.| Functions                   |                     |
