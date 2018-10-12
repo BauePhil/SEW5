@@ -26,7 +26,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 09.11.| Structures and Classes      |                     |
 | 14.11.| Properties                  | Pühringer           |
 | 14.11.| Methods                     | Maximilian Arthofer |
-| 16.11.| Subscripts                  |                     |
+| 16.11.| Subscripts                  | Manuel Ranzmeir     |
 | 21.11.| Inheritance                 |                     |
 
 
