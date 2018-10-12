@@ -22,7 +22,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 24.10.| Control Flow                |                     |
 | 24.10.| Functions                   | Bauer Philipp       |
 | 07.11.| Closures                    |                     |
-| 07.11.| Enumerations                |                     |
+| 07.11.| Enumerations                |  Jakob Altendorfer  |
 | 09.11.| Structures and Classes      |                     |
 | 14.11.| Properties                  | Pühringer           |
 | 14.11.| Methods                     | Maximilian Arthofer |
