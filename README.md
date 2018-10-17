@@ -12,20 +12,21 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 
 ## Session 1
 
-| Datum | Thema                       | Name                |
-|-------|-----------------------------|---------------------|
-| 17.10.| Basic Operators             | Florian Klammer     |
-| 17.10.| Strings and Characters      | Sperl Markus        |
-| 19.10.| Collection Types            | Ebner Simon         |
-| 24.10.| Control Flow                | Lasch Tobias        |
-| 24.10.| Functions                   | Bauer Philipp       |
-| 07.11.| Closures                    | Nedinic Nikola      |
-| 07.11.| Enumerations                | Altendorfer Jakob   |
-| 09.11.| Structures and Classes      | Kempinger Stefan    |
-| 14.11.| Properties                  | Pühringer Lukas     |
-| 14.11.| Methods                     | Maximilian Arthofer |
-| 16.11.| Subscripts                  | Wollersberger Julian|
-| 21.11.| Inheritance                 | Ranzmair Manuel     |
+| Datum | Thema                                       | Name                |
+|-------|---------------------------------------------|---------------------|
+| 17.10.| [The Basics](./Folien/01_The_Basics.key)    | HELT                |
+| 17.10.| Basic Operators                             | Florian Klammer     |
+| 17.10.| Strings and Characters                      | Sperl Markus        |
+| 19.10.| Collection Types                            | Ebner Simon         |
+| 24.10.| Control Flow                                | Lasch Tobias        |
+| 24.10.| Functions                                   | Bauer Philipp       |
+| 07.11.| Closures                                    | Nedinic Nikola      |
+| 07.11.| Enumerations                                | Altendorfer Jakob   |
+| 09.11.| Structures and Classes                      | Kempinger Stefan    |
+| 14.11.| Properties                                  | Pühringer Lukas     |
+| 14.11.| Methods                                     | Maximilian Arthofer |
+| 16.11.| Subscripts                                  | Wollersberger Julian|
+| 21.11.| Inheritance                                 | Ranzmair Manuel     |
 
 
 
