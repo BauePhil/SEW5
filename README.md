@@ -16,7 +16,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |-------|---------------------------------------------|---------------------|
 | 17.10.| [The Basics](./Folien/01_The_Basics.key)    | HELT                |
 | 17.10.| Basic Operators                             | Florian Klammer     |
-| 17.10.| Strings and Characters                      | Sperl Markus        |
+| 17.10.| [Strings and Characters](./Folien/03_Strings_and_Characters_Presentation      | Sperl Markus        |
 | 19.10.| Collection Types                            | Ebner Simon         |
 | 24.10.| Control Flow                                | Lasch Tobias        |
 | 24.10.| Functions                                   | Bauer Philipp       |
