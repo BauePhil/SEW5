@@ -12,7 +12,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 
 ## Session 1
 
-|Nr. |Datum |Datum |Thema                                                                         | Name                |
+|Nr. |Datum  |Thema                                                                               | Name                |
 |----|-------|------------------------------------------------------------------------------------|---------------------|
 | 01 | 17.10.| [The Basics](./Folien/01_The_Basics.key)                                           | HELT                |
 | 02 | 17.10.| [Basic Operators](./Folien/02_Basic_Operators.pptx)                                | Klammer Florian     |
