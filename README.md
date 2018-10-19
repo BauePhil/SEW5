@@ -15,7 +15,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |Nr. |Datum  |Thema                                                                               | Name                |
 |----|-------|------------------------------------------------------------------------------------|---------------------|
 | 01 | 17.10.| [The Basics](./Folien/01_The_Basics.key)                                           | HELT                |
-| 02 | 17.10.| [Basic Operators](./Folien/02_Basic_Operators.pptx)                                | Klammer Florian     |
+| 02 | 17.10.| [Basic Operators](./Folien/02_Basic_Operators_Fixed.pptx)                                | Klammer Florian     |
 | 03 | 17.10.| [Strings and Characters](./Folien/03_Strings_and_Characters_Presentation.key)      | Sperl Markus        |
 | -- | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 |----|-------|------------------------------------------------------------------------------------|---------------------|
