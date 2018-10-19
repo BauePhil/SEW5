@@ -18,26 +18,21 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 02 | 17.10.| [Basic Operators](./Folien/02_Basic_Operators.pptx)                                | Klammer Florian     |
 | 03 | 17.10.| [Strings and Characters](./Folien/03_Strings_and_Characters_Presentation.key)      | Sperl Markus        |
 | -- | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
-|----|-------|------------------------------------------------------------------------------------|---------------------|
 |    | 19.10.| SMÜP Themen 01-03                                                                  |                     |
 | 04 | 24.10.| Collection Types                                                                   | Ebner Simon         |
 | 05 | 24.10.| Control Flow                                                                       | Lasch Tobias        |
-|----|-------|------------------------------------------------------------------------------------|---------------------|
 |    | 07.10.| SMÜP Themen 04+05                                                                  |                     |
 | 06 | 07.10.| Functions                                                                          | Bauer Philipp       |
 | 07 | 07.11.| Closures                                                                           | Nedinic Nikola      |
 | -- | 09.10.| Übungsstunde Functions + Closures                                                  |                     |
-|----|-------|------------------------------------------------------------------------------------|---------------------|
 |    | 14.11.| SMÜP Themen 06+07                                                                  |                     |
 | 08 | 14.11.| Enumerations                                                                       | Altendorfer Jakob   |
 | 09 | 14.11.| Structures and Classes                                                             | Kempinger Stefan    |
 | -- | 16.11.| Übungsstunde Functions + Closures                                                  |                     |
-|----|-------|------------------------------------------------------------------------------------|---------------------|
 |    | 21.10.| SMÜP Themen 06+07                                                                  |                     |
 | 10 | 21.11.| Properties                                                                         | Pühringer Lukas     |
 | 11 | 21.11.| Methods                                                                            | Maximilian Arthofer |
 | -- | 23.11.| Übungsstunde Functions + Closures                                                  |                     |
-|----|-------|------------------------------------------------------------------------------------|---------------------|
 |    | 28.11.| SMÜP Themen 06+07                                                                  |                     |
 | 12 | 28.11.| Subscripts                                                                         | Wollersberger Julian|
 | 13 | 28.11.| Inheritance                                                                        | Ranzmair Manuel     |
