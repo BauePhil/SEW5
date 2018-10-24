@@ -20,12 +20,12 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 19.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 |    | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 | 04 | 24.10.| [Collection Types](./Folien/04_Collection_Types.pdf)                               | Ebner Simon         |
-|    | 07.11.| SMÜP Themen 01-03                                                                  |                     |
-| 05 | 07.11.| Control Flow                                                                       | Lasch Tobias        |
-|    | 07.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
-| 06 | 09.11.| Functions                                                                          | Bauer Philipp       |
-|    |       | SMÜP Themen 04+05                                                                  |                     |
-| 07 |       | Closures                                                                           | Nedinic Nikola      |
+|    | 09.11.| SMÜP Themen 01-03                                                                  |                     |
+| 05 | 09.11.| Control Flow                                                                       | Lasch Tobias        |
+|    | 14.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
+| 06 | 14.11.| Functions                                                                          | Bauer Philipp       |
+|    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
+| 07 | 16.11.| Closures                                                                           | Nedinic Nikola      |
 |    |       | Übungsstunde Functions + Closures                                                  |                     |
 |    |       | SMÜP Themen 06+07                                                                  |                     |
 | 08 |       | Enumerations                                                                       | Altendorfer Jakob   |
