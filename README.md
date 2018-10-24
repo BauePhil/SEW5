@@ -20,10 +20,10 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 19.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 |    | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 | 04 | 24.10.| Collection Types                                                                   | Ebner Simon         |
-|    | 31.10.| SMÜP Themen 01-03                                                                  |                     |
-| 05 | 31.10.| Control Flow                                                                       | Lasch Tobias        |
-|    | 31.10.| Übungsstunde Collection Types + Control Flows                                      |                     |
-| 06 | 02.11.| Functions                                                                          | Bauer Philipp       |
+|    | 07.11.| SMÜP Themen 01-03                                                                  |                     |
+| 05 | 07.11.| Control Flow                                                                       | Lasch Tobias        |
+|    | 07.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
+| 06 | 09.11.| Functions                                                                          | Bauer Philipp       |
 |    |       | SMÜP Themen 04+05                                                                  |                     |
 | 07 |       | Closures                                                                           | Nedinic Nikola      |
 |    |       | Übungsstunde Functions + Closures                                                  |                     |
