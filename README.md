@@ -19,7 +19,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 03 | 17.10.| [Strings and Characters](./Folien/03_Strings_and_Characters_Presentation.key)      | Sperl Markus        |
 |    | 19.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 |    | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
-| 04 | 24.10.| Collection Types                                                                   | Ebner Simon         |
+| 04 | 24.10.| [Collection Types](./Folien/04_Collection_Types.pdf)                               | Ebner Simon         |
 |    | 07.11.| SMÜP Themen 01-03                                                                  |                     |
 | 05 | 07.11.| Control Flow                                                                       | Lasch Tobias        |
 |    | 07.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
