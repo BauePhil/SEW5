@@ -21,7 +21,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 24.10.| Übungsstunde Basic Operators + Strings                                             |                     |
 | 04 | 24.10.| [Collection Types](./Folien/04_Collection_Types.pdf)                               | Ebner Simon         |
 |    | 09.11.| SMÜP Themen 01-03                                                                  |                     |
-| 05 | 09.11.| Control Flow                                                                       | Lasch Tobias        |
+| 05 | 09.11.| [Control Flow](./Folien/05_Control_Flow.pptx)                                      | Lasch Tobias        |
 |    | 14.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
 | 06 | 14.11.| Functions                                                                          | Bauer Philipp       |
 |    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
