@@ -26,19 +26,19 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 06 | 14.11.| Functions                                                                          | Bauer Philipp       |
 |    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
 | 07 | 16.11.| Closures                                                                           | Nedinic Nikola      |
-|    |       | Übungsstunde Functions + Closures                                                  |                     |
-|    |       | SMÜP Themen 06+07                                                                  |                     |
-| 08 |       | Enumerations                                                                       | Altendorfer Jakob   |
-| 09 |       | Structures and Classes                                                             | Kempinger Stefan    |
-|    |       | Übungsstunde Functions + Closures                                                  |                     |
-|    |       | SMÜP Themen 06+07                                                                  |                     |
-| 10 |       | Properties                                                                         | Pühringer Lukas     |
-| 11 |       | Methods                                                                            | Maximilian Arthofer |
-|    |       | Übungsstunde Functions + Closures                                                  |                     |
-|    |       | SMÜP Themen 06+07                                                                  |                     |
-| 12 |       | Subscripts                                                                         | Wollersberger Julian|
-| 13 |       | Inheritance                                                                        | Ranzmair Manuel     |
-|    |       | Übungsstunde Functions + Closures                                                  |                     |
+|    | 21.11.| Übungsstunde Functions + Closures                                                  |                     |
+| 08 | 21.11.| Enumerations                                                                       | Altendorfer Jakob   |
+|    | 23.11.| SMÜP Themen 06+07                                                                  |                     |
+| 09 | 23.11.| Structures and Classes                                                             | Kempinger Stefan    |
+|    | 28.11.| Übungsstunde Enumerations + Structures and Classes                                 |                     |
+| 10 | 28.11.| Properties                                                                         | Pühringer Lukas     |
+|    | 30.11.| SMÜP Themen 08+09                                                                  |                     |
+| 11 | 30.11.| Methods                                                                            | Maximilian Arthofer |
+|    | 05.12.| Übungsstunde Properties + Methods                                                  |                     |
+| 12 | 05.12.| Subscripts                                                                         | Wollersberger Julian|
+|    | 07.12.| SMÜP Themen 10+11                                                                  |                     |
+| 13 | 07.12.| Inheritance                                                                        | Ranzmair Manuel     |
+|    | 12.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
 
 
 
