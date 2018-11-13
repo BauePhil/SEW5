@@ -23,7 +23,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 09.11.| SMÜP Themen 01-03                                                                  |                     |
 | 05 | 09.11.| [Control Flow](./Folien/05_Control_Flow.pptx)                                      | Lasch Tobias        |
 |    | 14.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
-| 06 | 14.11.| Functions                                                                          | Bauer Philipp       |
+| 06 | 14.11.| [Functions](./Folien/06_Functions.pdf)                                             | Bauer Philipp       |
 |    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
 | 07 | 16.11.| Closures                                                                           | Nedinic Nikola      |
 |    | 21.11.| Übungsstunde Functions + Closures                                                  |                     |
