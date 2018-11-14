@@ -7,6 +7,8 @@ Als Referenz ist das Buch [The Swift Programming Language](https://docs.swift.or
 
 Abgabe (Powerpoint oder KeyNote) per Pullrequest in dieses Repository, dient gleichzeitig als Lernunterlagen für die Mitschüler. Zusätzlich ist ein Übungsbeispiel für die Klasse vorzubereiten!
 
+Link zum Üben: [Swift Online Compiler](https://www.tutorialspoint.com/compile_swift_online.php)
+
 Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullrequest zu erfolgen. Es gilt first come - first serve!
 
 
