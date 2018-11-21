@@ -27,7 +27,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 14.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
 | 06 | 14.11.| [Functions](./Folien/06_Functions.pdf)                                             | Bauer Philipp       |
 |    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
-| 07 | 16.11.| Closures                                                                           | Nedinic Nikola      |
+| 07 | 21.11.|[Closures](./Folien/07_Closures.pdf)                                                                           | Nedinic Nikola      |
 |    | 21.11.| Übungsstunde Functions + Closures                                                  |                     |
 | 08 | 21.11.| [Enumerations](./Folien/08_Enums.pdf)                                              | Altendorfer Jakob   |
 |    | 23.11.| SMÜP Themen 06+07                                                                  |                     |
