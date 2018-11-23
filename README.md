@@ -33,7 +33,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 23.11.| Übungsstunde                                                                       |                     |
 |    | 28.11.| Übungsstunde                                                                       |                     |
 |    | 30.11.| SMÜP Themen 06+07                                                                  |                     |
-| 09 | 05.12.| Structures and Classes                                                             | Kempinger Stefan    |
+| 09 | 05.12.| [Structures and Classes](./Folien/09_Classes_Structs.pdf)                          | Kempinger Stefan    |
 |    | 05.12.| Übungsstunde Structures and Classes + Enums                                        |                     |
 | 10 | 07.12.| Properties                                                                         | Pühringer Lukas     |
 |    | 07.12.| SMÜP Themen 08+09                                                                  |                     |
@@ -41,8 +41,9 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 12.12.| Übungsstunde Properties + Methods                                                  |                     |
 | 12 | 14.12.| Subscripts                                                                         | Wollersberger Julian|
 |    | 14.12.| SMÜP Themen 10+11                                                                  |                     |
-| 13 | 18.12.| Inheritance                                                                        | Ranzmair Manuel     |
+| 13 | 18.12.| Inheritance                                                                        | Ranzmeir Manuel     |
 |    | 18.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
+
 
 
 
