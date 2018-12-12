@@ -37,7 +37,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 05.12.| Übungsstunde Structures and Classes + Enums                                        |                     |
 | 10 | 07.12.| [Properties](./Folien/10_Properties.pdf)                                           | Pühringer Lukas     |
 |    | 07.12.| SMÜP Themen 08+09                                                                  |                     |
-| 11 | 12.12.| Methods                                                                            | Maximilian Arthofer |
+| 11 | 12.12.| [Methods](./Folien/11_Methods.pdf)                                                 | Maximilian Arthofer |
 |    | 12.12.| Übungsstunde Properties + Methods                                                  |                     |
 | 12 | 14.12.| Subscripts                                                                         | Wollersberger Julian|
 |    | 14.12.| SMÜP Themen 10+11                                                                  |                     |
