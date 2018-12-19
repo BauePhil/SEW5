@@ -41,7 +41,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 12.12.| Übungsstunde Properties + Methods                                                  |                     |
 | 12 | 14.12.| Subscripts                                                                         | Wollersberger Julian|
 |    | 14.12.| SMÜP Themen 10+11                                                                  |                     |
-| 13 | 18.12.| Inheritance                                                                        | Ranzmeir Manuel     |
+| 13 | 18.12.| [Inheritance](./Folien/13_Inheritance.pdf)                                         | Ranzmeir Manuel     |
 |    | 18.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
 
 
