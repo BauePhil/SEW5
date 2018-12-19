@@ -39,7 +39,7 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 07.12.| SMÜP Themen 08+09                                                                  |                     |
 | 11 | 12.12.| [Methods](./Folien/11_Methods.pdf)                                                 | Maximilian Arthofer |
 |    | 12.12.| Übungsstunde Properties + Methods                                                  |                     |
-| 12 | 14.12.| Subscripts                                                                         | Wollersberger Julian|
+| 12 | 14.12.| [Subscripts](./Folien/12_Subscripts.pdf)                                                                       | Wollersberger Julian|
 |    | 14.12.| SMÜP Themen 10+11                                                                  |                     |
 | 13 | 18.12.| Inheritance                                                                        | Ranzmeir Manuel     |
 |    | 18.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
