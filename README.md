@@ -43,9 +43,8 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 | 13 | 18.12.| [Inheritance](./Folien/13_Inheritance.pdf)                                         | Ranzmeir Manuel     |
 |    | 18.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
 |    | 09.01.| SMÜP Themen 10-13                                                                  |                     |
+| 14 | 09.01.| [Extensions, Protocols](./Folien/14_Extentions_Protocols.pdf)                      | Pühringer Lukas     |
 |    | 09.01.| Initialization, Deinitialization, Access Control                                   | Klammer Florian     |
-|    | 11.01.| Extensions, Protocols                                                              | Pühringer Lukas     |
-
 
 
 
