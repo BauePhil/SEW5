@@ -7,6 +7,8 @@ Als Referenz ist das Buch [The Swift Programming Language](https://docs.swift.or
 
 Abgabe (Powerpoint oder KeyNote) per Pullrequest in dieses Repository, dient gleichzeitig als Lernunterlagen für die Mitschüler. Zusätzlich ist ein Übungsbeispiel für die Klasse vorzubereiten!
 
+Link zum Üben: [Swift Online Compiler](https://www.tutorialspoint.com/compile_swift_online.php)
+
 Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullrequest zu erfolgen. Es gilt first come - first serve!
 
 
@@ -25,20 +27,24 @@ Eintragung für Session 1 ist ab sofort offen - dies hat ebenfalls per Pullreque
 |    | 14.11.| Übungsstunde Collection Types + Control Flows                                      |                     |
 | 06 | 14.11.| [Functions](./Folien/06_Functions.pdf)                                             | Bauer Philipp       |
 |    | 16.11.| SMÜP Themen 04+05                                                                  |                     |
-| 07 | 16.11.| Closures                                                                           | Nedinic Nikola      |
+| 07 | 21.11.| [Closures](./Folien/07_Closures.pdf)                                               | Nedinic Nikola      |
 |    | 21.11.| Übungsstunde Functions + Closures                                                  |                     |
-| 08 | 21.11.| Enumerations                                                                       | Altendorfer Jakob   |
-|    | 23.11.| SMÜP Themen 06+07                                                                  |                     |
-| 09 | 23.11.| Structures and Classes                                                             | Kempinger Stefan    |
-|    | 28.11.| Übungsstunde Enumerations + Structures and Classes                                 |                     |
-| 10 | 28.11.| Properties                                                                         | Pühringer Lukas     |
-|    | 30.11.| SMÜP Themen 08+09                                                                  |                     |
-| 11 | 30.11.| Methods                                                                            | Maximilian Arthofer |
-|    | 05.12.| Übungsstunde Properties + Methods                                                  |                     |
-| 12 | 05.12.| Subscripts                                                                         | Wollersberger Julian|
-|    | 07.12.| SMÜP Themen 10+11                                                                  |                     |
-| 13 | 07.12.| Inheritance                                                                        | Ranzmair Manuel     |
-|    | 12.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
+| 08 | 21.11.| [Enumerations](./Folien/08_Enums.pdf)                                              | Altendorfer Jakob   |
+|    | 23.11.| Übungsstunde                                                                       |                     |
+|    | 28.11.| Übungsstunde                                                                       |                     |
+|    | 30.11.| SMÜP Themen 06+07                                                                  |                     |
+| 09 | 05.12.| [Structures and Classes](./Folien/09_Classes_Structs.pdf)                          | Kempinger Stefan    |
+|    | 05.12.| Übungsstunde Structures and Classes + Enums                                        |                     |
+| 10 | 07.12.| [Properties](./Folien/10_Properties.pdf)                                           | Pühringer Lukas     |
+|    | 07.12.| SMÜP Themen 08+09                                                                  |                     |
+| 11 | 12.12.| [Methods](./Folien/11_Methods.pdf)                                                 | Maximilian Arthofer |
+|    | 12.12.| Übungsstunde Properties + Methods                                                  |                     |
+| 12 | 14.12.| [Subscripts](./Folien/12_Subscripts.pdf)                                           | Wollersberger Julian|
+| 13 | 18.12.| [Inheritance](./Folien/13_Inheritance.pdf)                                         | Ranzmeir Manuel     |
+|    | 18.12.| Übungsstunde Subscripts + Inheritance                                              |                     |
+|    | 09.01.| SMÜP Themen 10-13                                                                  |                     |
+| 14 | 09.01.| [Extensions, Protocols](./Folien/14_Extentions_Protocols.pdf)                      | Pühringer Lukas     |
+| 15 | 09.01.| [Initialization, Deinitialization Access Control](./Folien/15_init_deinit_ac.pdf)  | Klammer Florian     |
 
 
 
